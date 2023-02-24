@@ -1,0 +1,6 @@
+Power=0
+PriceNow=179
+Consumption=80
+WaterTemp=54
+AirTemp=22
+Expense=125
